@@ -37,5 +37,5 @@ The tester missed the first frame, which was the home page. She quickly circled 
 
 # :black_square_button: Reflection
 
->
+> We spent a few hours on the low-fidelity prototype and considered all the possibilities, leading to thirty frames for one task. Ideally, users would follow the flow that designers have in mind and complete the task as expected. In this project, the tester completed the task successfully, but almost ten frames were deliberately skipped. We believe the arrangement of the frame was confusing. Nonetheless, we did not want to propose a linear flow. Finding a way to arrange these frames in non-linear but less confusing would give us more details of users' ideas and strategies for progressing in the task. Moreover, we would ask the users to walk us through their thoughts aloud. This would assure us that we are not missing something and the information is not the post-completion reflection from the user. 
 
